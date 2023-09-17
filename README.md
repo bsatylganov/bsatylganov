@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
-">
+![image](https://github.com/bsatylganov/bsatylganov/assets/99959158/0574f5e8-41fc-444e-800a-2153fc9fb09c)
+
 
 <!--
 **bsatylganov/bsatylganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
