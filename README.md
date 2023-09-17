@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Ｈｉ ｅｖｅｒｙｏｎｅ, Ｉ'ｍ <a href="https://daniilshat.ru/" target="_blank">Ｂａｉｅｌ</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Ｊｕｎｉｏｒ  ｗｅｂ  ｄｅｖｅｌｏｐｅｒ  ｆｒｏｍ  Ｋｙｒｇｙｚｓｔａｎ</h3>
 
 ![image](https://github.com/bsatylganov/bsatylganov/assets/99959158/0574f5e8-41fc-444e-800a-2153fc9fb09c)
 
