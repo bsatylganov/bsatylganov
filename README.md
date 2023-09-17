@@ -2,7 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Ｊｕｎｉｏｒ  ｗｅｂ  ｄｅｖｅｌｏｐｅｒ  ｆｒｏｍ  Ｋｙｒｇｙｚｓｔａｎ</h3>
 
-![image](https://github.com/bsatylganov/bsatylganov/assets/99959158/0574f5e8-41fc-444e-800a-2153fc9fb09c)
+<h3>𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚜𝚝𝚊𝚌𝚔:</h3>
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
 
 
 <!--
