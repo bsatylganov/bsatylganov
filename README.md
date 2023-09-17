@@ -2,8 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Ｊｕｎｉｏｒ  ｗｅｂ  ｄｅｖｅｌｏｐｅｒ  ｆｒｏｍ  Ｋｙｒｇｙｚｓｔａｎ</h3>
 
-<h3>𝚖𝚢 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚜𝚝𝚊𝚌𝚔:</h3>
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack:)](https://git.io/typing-svg)
+
+
 
 
 
